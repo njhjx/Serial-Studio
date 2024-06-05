@@ -10,6 +10,7 @@ Serial-Studio.und
 # Icon must end with two \r
 Icon
 
+build/*
 # Thumbnails
 ._*
 
